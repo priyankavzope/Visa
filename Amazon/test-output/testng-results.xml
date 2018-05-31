@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="47530" started-at="2018-05-31T02:27:28Z" finished-at="2018-05-31T02:28:16Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="47530" started-at="2018-05-31T02:27:28Z" finished-at="2018-05-31T02:28:16Z">
+      <class name="TestScript.Amazon_Login">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:TestScript.Amazon_Login@6f7fd0e6]" name="setUp" is-config="true" duration-ms="4516" started-at="2018-05-31T02:27:28Z" finished-at="2018-05-31T02:27:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="addToCart()[pri:0, instance:TestScript.Amazon_Login@6f7fd0e6]" name="addToCart" duration-ms="42103" started-at="2018-05-31T02:27:33Z" finished-at="2018-05-31T02:28:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addToCart -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:TestScript.Amazon_Login@6f7fd0e6]" name="tearDown" is-config="true" duration-ms="885" started-at="2018-05-31T02:28:15Z" finished-at="2018-05-31T02:28:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- TestScript.Amazon_Login -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
